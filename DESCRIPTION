@@ -3,7 +3,8 @@ Title: A toy R package following `The Whole Game`
 Version: 0.0.0.9000
 Authors@R: 
     person("Yajing", "Liu", , "yajing03@student.ubc.ca", role = c("aut", "cre"))
-Description: Creating a toy R packge following `The Whole Game`
+Description: Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
